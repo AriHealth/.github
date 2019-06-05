@@ -1,7 +1,9 @@
 ---
-name: "\U0001F680 Feature request"
+name: Feature request
 about: Suggest an idea for this project
-
+title: 'feature: '
+labels: ''
+assignees: ''
 ---
 
 # Feature Request
