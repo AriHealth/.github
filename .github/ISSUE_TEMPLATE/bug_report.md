@@ -1,31 +1,32 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
+name: Issue Report
+about: Create a report
+title: 'issue: '
 labels: ''
 assignees: ''
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# Issue report
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Expected Behavior**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Logs and Screenshots**
-If applicable, add logs and screenshots to help explain your problem.
+**Actual Behavior**
+
+
+**Steps to Reproduce the Problem**
+
+  1.
+  1.
+  1.
+
+**Logs**
+
+```
+insert short code snippets like this
+```
 
 **Specifications**
+
   - Version:
   - Platform:
-
-**Additional context**
-Add any other context about the problem here.
