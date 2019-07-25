@@ -6,7 +6,7 @@ Read the documentation available at the README in order to get used to the proje
 
 ## Code of Conduct
 
-Please try to follow the Kant’s Categorical imperative “act only according to that maxim whereby you can at the same time will that it should become a universal law” (Kant, Immanuel, (1785). Grounding for the Metaphysics of Morals). Follow the code of conduct described in the [Contributor Covenant](http://contributor-covenant.org/), specified in [CONTRIBUTING]CONTRIBUTING.md).
+Please try to follow the Kant’s Categorical imperative “act only according to that maxim whereby you can at the same time will that it should become a universal law” (Kant, Immanuel, (1785). Grounding for the Metaphysics of Morals). Follow the code of conduct described in the [Contributor Covenant](http://contributor-covenant.org/), specified in [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Contributing to the repository
 
@@ -18,11 +18,10 @@ It is recommended to use lint/linter tools to flag programming bugs and stylisti
 
 ### Commits
 
-Follow the commit conventions, inspired by [these](https://chris.beams.io/posts/git-commit/):
+Follow the conventions for commit messages, inspired by [these](https://chris.beams.io/posts/git-commit/):
 
 - Use the imperative mood in the subject line.
 - Capitalize the subject line.
-- Limit the subject line to 50 characters.
 - Do not end the subject line with a period.
 
 EXTRA
@@ -30,7 +29,7 @@ EXTRA
 - Separate subject from body with a blank line.
 - Use the body to explain what and why vs. how.
 
-Remember to commit and integrate early and often to ease the integration process.
+Use an atomic approach when commiting in the repository, commit each fix or task as a separate change, thus making easy to roll back. Remember to commit and integrate early and often to ease the integration process.
 
 ### Pull request
 
