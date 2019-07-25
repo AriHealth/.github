@@ -2,7 +2,7 @@
 
 ## Where to start
 
-Read the documentation available at the README in order to get use to the project. Communicate with the responsible in case of doubts.
+Read the documentation available at the README in order to get used to the project. Communicate with the team in case of doubts. Update the README if your contribution affects the current documentation.
 
 ## Code of Conduct
 
