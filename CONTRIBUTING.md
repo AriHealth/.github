@@ -6,7 +6,7 @@ Read the documentation available at the README in order to get used to the proje
 
 ## Code of Conduct
 
-Please try to follow the Kant’s Categorical imperative “act only according to that maxim whereby you can at the same time will that it should become a universal law” (Kant, Immanuel, (1785). Grounding for the Metaphysics of Morals). When contributing behave the way described in the [Contributor Covenant](http://contributor-covenant.org/), specified in the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
+Please try to follow the Kant’s categorical imperative “_act only according to that maxim whereby you can at the same time will that it should become a universal law_” (Immanuel Kant, 1785). Grounding for the Metaphysics of Morals). When contributing behave the way described in the [Contributor Covenant](http://contributor-covenant.org/), specified in the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
 
 ## Contributing to the repository
 
